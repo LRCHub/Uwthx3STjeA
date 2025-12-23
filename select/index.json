@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "OXYMORON",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-23T07:13:57.996565Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Oxymoron",
+      "artist": "Chumbawamba",
+      "has_synced": false,
+      "path": "select/01_Oxymoron_Chumbawamba.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Prescription/Oxymoron",
+      "artist": "ScHoolboy Q",
+      "has_synced": true,
+      "path": "select/02_Prescription_Oxymoron_ScHoolboy_Q.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Prescription\u0000Oxymoron",
+      "artist": "Schoolboy Q",
+      "has_synced": true,
+      "path": "select/03_Prescription\u0000Oxymoron_Schoolboy_Q.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oxymoron",
+      "artist": "Oliver Tree",
+      "has_synced": false,
+      "path": "select/04_Oxymoron_Oliver_Tree.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Oxymoron",
+      "artist": "The Fall",
+      "has_synced": false,
+      "path": "select/05_Oxymoron_The_Fall.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Prescription/Oxymoron",
+      "artist": "Schoolboy Q",
+      "has_synced": true,
+      "path": "select/06_Prescription_Oxymoron_Schoolboy_Q.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "OXYMORON",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/07_OXYMORON_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Prescription/Oxymoron",
+      "artist": "Schoolboy Q",
+      "has_synced": false,
+      "path": "select/08_Prescription_Oxymoron_Schoolboy_Q.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Prescription/Oxymoron",
+      "artist": "ScHoolboy Q",
+      "has_synced": true,
+      "path": "select/09_Prescription_Oxymoron_ScHoolboy_Q.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oxymoron",
+      "artist": "The Gloom In The Corner",
+      "has_synced": true,
+      "path": "select/10_Oxymoron_The_Gloom_In_The_Corner.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Oxymoron",
+      "artist": "Oliver Tree",
+      "has_synced": true,
+      "path": "select/11_Oxymoron_Oliver_Tree.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Prescription/Oxymoron (Edited)",
+      "artist": "ScHoolboy Q",
+      "has_synced": true,
+      "path": "select/12_Prescription_Oxymoron_(Edited)_ScHoolboy_Q.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Oxymoron",
+      "artist": "The Love Junkies",
+      "has_synced": false,
+      "path": "select/13_Oxymoron_The_Love_Junkies.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Prescription/Oxymoron",
+      "artist": "ScHoolboy Q",
+      "has_synced": true,
+      "path": "select/14_Prescription_Oxymoron_ScHoolboy_Q.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Oxymoron",
+      "artist": "Szymi Szyms",
+      "has_synced": true,
+      "path": "select/15_Oxymoron_Szymi_Szyms.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Oxymoron №2",
+      "artist": "AKADO",
+      "has_synced": true,
+      "path": "select/16_Oxymoron_No2_AKADO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OXYMORON",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_OXYMORON_UVERworld.txt"
+    }
+  ]
+}
